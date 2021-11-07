@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indigenius88
 - 👀 I’m interested in building a career in Block Chain
-- 🌱 I’m currently learning Smart Contracts, Solidity, Etherscan and many more.
+- 🌱 I’m currently learning Smart Contracts, Solidity, DAPPS, and many more.
 - 💞️ I’m looking to collaborate on projects and ideas
 - 📫 How to reach me browneagle363@gmail.com
 
